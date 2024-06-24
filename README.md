@@ -105,7 +105,7 @@ One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 
 
 1. Get [OpenAI API Key](https://platform.openai.com/account/api-keys);
 2. Click
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/bruceleedrupals-projects/clone?repository-url=https://github.com/bruceleedrupal/chatgpt&env=OPENAI_API_KEY&env=CODE&env=DEFAULT_MODEL), remember that `CODE` is your page password;
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/bruceleedrupals-projects/clone?repository-url=https://github.com/bruceleedrupal/chatgpt&env=OPENAI_API_KEY&env=CODE&env=DEFAULT_MODEL&env=BASE_URL), remember that `CODE` is your page password;
 3. Enjoy :)
 
 ## FAQ
